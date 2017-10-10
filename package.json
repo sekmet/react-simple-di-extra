@@ -1,10 +1,10 @@
 {
-  "name": "react-simple-di",
+  "name": "react-simple-di-extra",
   "version": "1.3.0",
   "description": "Simple Dependancy Injection Solution for React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kadirahq/react-simple-di"
+    "url": "https://github.com/tmpg/react-simple-di-extra"
   },
   "license": "MIT",
   "options": {

@@ -5,7 +5,7 @@ Simple dependancy injection solution for React.
 ### Installation
 
 ```
-npm i react-simple-di
+npm i react-simple-di-extra
 ```
 
 ### Intro
