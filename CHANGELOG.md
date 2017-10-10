@@ -1,5 +1,9 @@
 # ChangeLog
 
+### v1.3.1
+
+* Update readme.
+
 ### v1.3.0
 
 * Update React to v16.0.0
