@@ -1,13 +1,16 @@
-# react-simple-di
+# `react-simple-di-extra`
 
-Simple dependancy injection solution for React.
+Simple dependancy injection solution for React. *This package is meant to replace original react-simple-di,* `react-simple-di` *should be removed to avoid interference and unexpected behavior.*
 
 ### Installation
-
+```shell
+# Remove original react-simple-di
+npm remove react-simple-di
+npm install --save react-simple-di-extra
 ```
-npm i react-simple-di-extra
-```
 
+
+#Original `react-simple-di` Instructions
 ### Intro
 
 In `react-simple-di`, we've two types of dependencies, they are:
